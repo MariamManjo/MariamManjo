@@ -19,9 +19,8 @@
 
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Framer](https://img.shields.io/badge/Framer-0D1117?style=for-the-badge&logo=framer&logoColor=0055FF)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0D1117?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
-![Spline](https://img.shields.io/badge/Spline_3D-0D1117?style=for-the-badge&logo=spline&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-0D1117?style=for-the-badge&logo=airbnb&logoColor=FF5A5F)
+![Lovable](https://img.shields.io/badge/Lovable-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmNjE2MSIgZD0iTTEyIDIxLjU5M2MtNS4wNjMtNC45NjYtMTAtNy4yMTEtMTAtMTEuNDkzIDAtNC4wODIgMy4wNDItNi4xIDYtNi4xIDMgMCA1IDIgNiA0IDEtMiAzLTQgNi00IDIuOTU4IDAgNiAyLjAxOCA2IDYuMSAwIDQuMjgyLTQuOTM3IDYuNTI3LTEwIDExLjQ5M3oiLz48L3N2Zz4=&logoColor=FF6161)
+![Stitch](https://img.shields.io/badge/Google_Stitch-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
 
 </div>
 
