@@ -15,55 +15,15 @@
 ## ✦ Achievements
 
 <div align="center">
+<br>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="33%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=120&text=🏆&fontSize=48&fontAlignY=45&desc=AI%20Hackathon&descSize=11&descAlignY=75&descColor=ffffff&animation=fadeIn&width=220" />
-<br/>
-<sub><b>Winner · AI Hackathon for Women & Girls</b></sub>
-</td>
-<td width="20px"></td>
-<td align="center" width="33%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=120&text=🚀&fontSize=48&fontAlignY=45&desc=Pre-Acceleration&descSize=11&descAlignY=75&descColor=ffffff&animation=fadeIn&width=220" />
-<br/>
-<sub><b>Winner · UG Startup Factory Pre-Acceleration</b></sub>
-</td>
-<td width="20px"></td>
-<td align="center" width="33%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=120&text=⚡&fontSize=48&fontAlignY=45&desc=Creathon&descSize=11&descAlignY=75&descColor=ffffff&animation=fadeIn&width=220" />
-<br/>
-<sub><b>Winner · WordPress Creathon</b></sub>
-</td>
-</tr>
-</table>
+[![](https://img.shields.io/badge/🏆%20%20WINNER-%20AI%20Hackathon%20for%20Women%20%26%20Girls-ff6b9d?style=for-the-badge&labelColor=0D1117&color=ff6b9d)](https://github.com/MariamManjo)
 
-</div>
+[![](https://img.shields.io/badge/🚀%20%20WINNER-%20UG%20Startup%20Factory%20Pre--Acceleration-a855f7?style=for-the-badge&labelColor=0D1117&color=a855f7)](https://github.com/MariamManjo)
 
-<br/>
+[![](https://img.shields.io/badge/⚡%20%20WINNER-%20WordPress%20Creathon-6366f1?style=for-the-badge&labelColor=0D1117&color=6366f1)](https://github.com/MariamManjo)
 
----
-
-## ✦ Experience
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🌍  Earth Voyage · Product Designer          Mar 2025 → Now    ║
-║      Designed postcard creation UX from scratch · earthvoyage.us ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ⛓️  CyreneAI · Vibe Coding Builder                   Mar 2026  ║
-║      Full-stack prototype · Solana integration · Superteam GE    ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🤖  Meama · AI Prompt Engineer & UI/UX       Aug → Nov 2025    ║
-║      AI-assisted product workflows · LLM integration             ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🎨  Freelance · UX/UI Designer                  2024 → Now    ║
-║      Medical & dental platforms · Desktop & mobile               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
+<br>
 </div>
 
 ---
