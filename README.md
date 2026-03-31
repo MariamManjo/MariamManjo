@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mariam%20Manjavidze&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UX%2FUI%20·%20AI%20·%20Vibe%20Coder&descSize=18&descAlignY=58&descAlign=50&descColor=c084fc" />
+<a href="https://github.com/MariamManjo"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mariam%20Manjavidze&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UX%2FUI%20·%20AI%20·%20Vibe%20Coder&descSize=18&descAlignY=58&descAlign=50&descColor=c084fc" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Designing+the+future%2C+one+pixel+at+a+time.;Where+aesthetics+meet+intelligence.;Crafting+AI-powered+experiences.;TypeScript+%2B+Figma+%2B+vibes+%3D+magic." alt="Typing SVG" />
 
@@ -63,5 +63,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
+<a href="https://github.com/MariamManjo"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" /></a>
 </div>
