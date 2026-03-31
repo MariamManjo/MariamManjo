@@ -12,6 +12,61 @@
 
 ---
 
+## ✦ Achievements
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=120&text=🏆&fontSize=48&fontAlignY=45&desc=AI%20Hackathon&descSize=11&descAlignY=75&descColor=ffffff&animation=fadeIn&width=220" />
+<br/>
+<sub><b>Winner · AI Hackathon for Women & Girls</b></sub>
+</td>
+<td width="20px"></td>
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=120&text=🚀&fontSize=48&fontAlignY=45&desc=Pre-Acceleration&descSize=11&descAlignY=75&descColor=ffffff&animation=fadeIn&width=220" />
+<br/>
+<sub><b>Winner · UG Startup Factory Pre-Acceleration</b></sub>
+</td>
+<td width="20px"></td>
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=120&text=⚡&fontSize=48&fontAlignY=45&desc=Creathon&descSize=11&descAlignY=75&descColor=ffffff&animation=fadeIn&width=220" />
+<br/>
+<sub><b>Winner · WordPress Creathon</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## ✦ Experience
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🌍  Earth Voyage · Product Designer          Mar 2025 → Now    ║
+║      Designed postcard creation UX from scratch · earthvoyage.us ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ⛓️  CyreneAI · Vibe Coding Builder                   Mar 2026  ║
+║      Full-stack prototype · Solana integration · Superteam GE    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🤖  Meama · AI Prompt Engineer & UI/UX       Aug → Nov 2025    ║
+║      AI-assisted product workflows · LLM integration             ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎨  Freelance · UX/UI Designer                  2024 → Now    ║
+║      Medical & dental platforms · Desktop & mobile               ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
 
 ### Design Stack
 
@@ -53,5 +108,6 @@
 
 ---
 
----
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
+</div>
