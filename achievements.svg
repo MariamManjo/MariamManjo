@@ -44,11 +44,19 @@
   <!-- Floating icon -->
   <g>
     <text x="155" y="118" text-anchor="middle" font-size="48" font-family="serif">🏆</text>
+    <!-- gentle float -->
     <animateTransform attributeName="transform" type="translate"
       values="0,0;0,-6;0,0" dur="3.2s"
       calcMode="spline" keyTimes="0;0.5;1"
       keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
       repeatCount="indefinite" additive="sum"/>
+    <!-- periodic wiggle every 5s -->
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 155 92;-18 155 92;18 155 92;-10 155 92;10 155 92;-4 155 92;4 155 92;0 155 92"
+      keyTimes="0;0.14;0.28;0.42;0.57;0.71;0.85;1"
+      dur="0.7s"
+      begin="3s;8s;13s;18s;23s;28s"
+      additive="sum"/>
   </g>
 
   <!-- WINNER pill -->
@@ -97,11 +105,19 @@
 
   <g>
     <text x="440" y="118" text-anchor="middle" font-size="48" font-family="serif">🚀</text>
+    <!-- gentle float -->
     <animateTransform attributeName="transform" type="translate"
       values="0,0;0,-6;0,0" dur="2.8s"
       calcMode="spline" keyTimes="0;0.5;1"
       keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
       repeatCount="indefinite" additive="sum"/>
+    <!-- periodic wiggle every 5s, offset 1.5s -->
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 440 92;-18 440 92;18 440 92;-10 440 92;10 440 92;-4 440 92;4 440 92;0 440 92"
+      keyTimes="0;0.14;0.28;0.42;0.57;0.71;0.85;1"
+      dur="0.7s"
+      begin="4.5s;9.5s;14.5s;19.5s;24.5s;29.5s"
+      additive="sum"/>
   </g>
 
   <rect x="396" y="130" width="88" height="20" rx="10" fill="#a855f7" opacity="0.12"/>
@@ -148,11 +164,19 @@
 
   <g>
     <text x="725" y="118" text-anchor="middle" font-size="48" font-family="serif">⚡</text>
+    <!-- gentle float -->
     <animateTransform attributeName="transform" type="translate"
       values="0,0;0,-6;0,0" dur="3.6s"
       calcMode="spline" keyTimes="0;0.5;1"
       keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
       repeatCount="indefinite" additive="sum"/>
+    <!-- periodic wiggle every 5s, offset 3s -->
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 725 92;-18 725 92;18 725 92;-10 725 92;10 725 92;-4 725 92;4 725 92;0 725 92"
+      keyTimes="0;0.14;0.28;0.42;0.57;0.71;0.85;1"
+      dur="0.7s"
+      begin="6s;11s;16s;21s;26s;31s"
+      additive="sum"/>
   </g>
 
   <rect x="681" y="130" width="88" height="20" rx="10" fill="#6366f1" opacity="0.12"/>
