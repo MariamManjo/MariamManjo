@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![achievements](achievements.svg)
+<a href="https://manjom.framer.website/"><img src="achievements.svg" alt="achievements"/></a>
 
 </div>
 
