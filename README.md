@@ -7,8 +7,6 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manjom.framer.website-a855f7?style=for-the-badge&logo=framer&logoColor=white)](https://manjom.framer.website/)
-[![EAVO](https://img.shields.io/badge/Company-EAVO-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)](https://github.com/MariamManjo)
-[![Tbilisi](https://img.shields.io/badge/📍-Tbilisi,_Georgia-ec4899?style=for-the-badge)](https://github.com/MariamManjo)
 
 </div>
 
