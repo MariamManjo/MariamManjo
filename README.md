@@ -56,22 +56,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MariamManjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6366f1&text_color=ffffff&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamManjo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=ffffff&layout=compact&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=MariamManjo&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=6366f1&dates=888888" />
-
-</div>
-
 ---
 
 ### Currently
