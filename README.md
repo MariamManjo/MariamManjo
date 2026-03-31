@@ -14,25 +14,6 @@
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-### `whoami`
-
-```typescript
-const mariam = {
-  role:       ["UX/UI Designer", "AI Engineer", "Vibe Coder"],
-  company:    "EAVO",
-  location:   "Tbilisi, Georgia 🇬🇪",
-  focus:      ["Human-Centered Design", "AI Interfaces", "TypeScript"],
-  currentlyBuilding: "AI-powered UX experiences",
-  philosophy: "Design is not just what it looks like — it's how it works.",
-  openTo:     ["Collabs", "Design Reviews", "AI Projects"],
-};
-```
-
-<br clear="right"/>
-
----
 
 ### Design Stack
 
