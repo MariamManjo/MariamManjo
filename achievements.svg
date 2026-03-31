@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 260" width="820" height="260">
+
+  <!-- Background -->
+  <rect width="820" height="260" fill="#0D1117" rx="16"/>
+
+  <!-- Grid overlay -->
+  <line x1="0" y1="65" x2="820" y2="65" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
+  <line x1="0" y1="130" x2="820" y2="130" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
+  <line x1="0" y1="195" x2="820" y2="195" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
+  <line x1="205" y1="0" x2="205" y2="260" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
+  <line x1="410" y1="0" x2="410" y2="260" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
+  <line x1="615" y1="0" x2="615" y2="260" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
+
+  <!-- ═══════════════ CARD 1 — PINK ═══════════════ -->
+
+  <!-- Outer glow -->
+  <rect x="8" y="8" width="258" height="244" rx="12" fill="none" stroke="#ff6b9d" stroke-width="6" opacity="0.08">
+    <animate attributeName="opacity" values="0.04;0.14;0.04" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Card body -->
+  <rect x="14" y="14" width="246" height="232" rx="10" fill="#0f1219" stroke="#ff6b9d" stroke-width="1.2">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Top glow bar -->
+  <rect x="14" y="14" width="246" height="3" rx="1.5" fill="#ff6b9d">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner TL -->
+  <rect x="14" y="14" width="14" height="2" fill="#ff6b9d" opacity="0.9"/>
+  <rect x="14" y="14" width="2" height="14" fill="#ff6b9d" opacity="0.9"/>
+  <!-- Corner TR -->
+  <rect x="248" y="14" width="12" height="2" fill="#ff6b9d" opacity="0.9"/>
+  <rect x="258" y="14" width="2" height="14" fill="#ff6b9d" opacity="0.9"/>
+  <!-- Corner BL -->
+  <rect x="14" y="242" width="14" height="2" fill="#ff6b9d" opacity="0.9"/>
+  <rect x="14" y="232" width="2" height="12" fill="#ff6b9d" opacity="0.9"/>
+  <!-- Corner BR -->
+  <rect x="248" y="242" width="12" height="2" fill="#ff6b9d" opacity="0.9"/>
+  <rect x="258" y="232" width="2" height="12" fill="#ff6b9d" opacity="0.9"/>
+
+  <!-- ACHIEVEMENT UNLOCKED -->
+  <text x="137" y="40" text-anchor="middle" font-family="'Courier New',monospace" font-size="7.5" fill="#ff6b9d" letter-spacing="2.5" opacity="0.85">ACHIEVEMENT UNLOCKED</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="48" x2="244" y2="48" stroke="#ff6b9d" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Icon -->
+  <text x="137" y="110" text-anchor="middle" font-size="46">🏆</text>
+  <animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="2.8s" repeatCount="indefinite" additive="sum"/>
+
+  <!-- WINNER pill -->
+  <rect x="93" y="122" width="88" height="19" rx="4" fill="#ff6b9d" opacity="0.12"/>
+  <rect x="93" y="122" width="88" height="19" rx="4" fill="none" stroke="#ff6b9d" stroke-width="0.7" opacity="0.6"/>
+  <text x="137" y="135.5" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#ff6b9d" font-weight="bold" letter-spacing="2.5">WINNER</text>
+
+  <!-- Name -->
+  <text x="137" y="160" text-anchor="middle" font-family="'Courier New',monospace" font-size="9.5" fill="#ffffff" opacity="0.92">AI Hackathon for</text>
+  <text x="137" y="175" text-anchor="middle" font-family="'Courier New',monospace" font-size="9.5" fill="#ffffff" opacity="0.92">Women &amp; Girls</text>
+
+  <!-- XP bar bg -->
+  <rect x="30" y="200" width="214" height="5" rx="2.5" fill="#ffffff" opacity="0.07"/>
+  <!-- XP bar fill -->
+  <rect x="30" y="200" width="214" height="5" rx="2.5" fill="#ff6b9d" opacity="0.75">
+    <animate attributeName="width" values="0;214;214" dur="1.5s" fill="freeze"/>
+  </rect>
+
+  <!-- XP text -->
+  <text x="137" y="225" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#ff6b9d" opacity="0.65">◆  +500 XP  ◆</text>
+
+  <!-- ═══════════════ CARD 2 — PURPLE ═══════════════ -->
+
+  <rect x="288" y="8" width="258" height="244" rx="12" fill="none" stroke="#a855f7" stroke-width="6" opacity="0.08">
+    <animate attributeName="opacity" values="0.04;0.14;0.04" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="294" y="14" width="246" height="232" rx="10" fill="#0f1219" stroke="#a855f7" stroke-width="1.2">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="294" y="14" width="246" height="3" rx="1.5" fill="#a855f7">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="294" y="14" width="14" height="2" fill="#a855f7" opacity="0.9"/>
+  <rect x="294" y="14" width="2" height="14" fill="#a855f7" opacity="0.9"/>
+  <rect x="528" y="14" width="12" height="2" fill="#a855f7" opacity="0.9"/>
+  <rect x="538" y="14" width="2" height="14" fill="#a855f7" opacity="0.9"/>
+  <rect x="294" y="242" width="14" height="2" fill="#a855f7" opacity="0.9"/>
+  <rect x="294" y="232" width="2" height="12" fill="#a855f7" opacity="0.9"/>
+  <rect x="528" y="242" width="12" height="2" fill="#a855f7" opacity="0.9"/>
+  <rect x="538" y="232" width="2" height="12" fill="#a855f7" opacity="0.9"/>
+
+  <text x="417" y="40" text-anchor="middle" font-family="'Courier New',monospace" font-size="7.5" fill="#a855f7" letter-spacing="2.5" opacity="0.85">ACHIEVEMENT UNLOCKED</text>
+  <line x1="310" y1="48" x2="524" y2="48" stroke="#a855f7" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="417" y="110" text-anchor="middle" font-size="46">🚀</text>
+
+  <rect x="373" y="122" width="88" height="19" rx="4" fill="#a855f7" opacity="0.12"/>
+  <rect x="373" y="122" width="88" height="19" rx="4" fill="none" stroke="#a855f7" stroke-width="0.7" opacity="0.6"/>
+  <text x="417" y="135.5" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#a855f7" font-weight="bold" letter-spacing="2.5">WINNER</text>
+
+  <text x="417" y="160" text-anchor="middle" font-family="'Courier New',monospace" font-size="9.5" fill="#ffffff" opacity="0.92">UG Startup Factory</text>
+  <text x="417" y="175" text-anchor="middle" font-family="'Courier New',monospace" font-size="9.5" fill="#ffffff" opacity="0.92">Pre-Acceleration</text>
+
+  <rect x="310" y="200" width="214" height="5" rx="2.5" fill="#ffffff" opacity="0.07"/>
+  <rect x="310" y="200" width="214" height="5" rx="2.5" fill="#a855f7" opacity="0.75">
+    <animate attributeName="width" values="0;214;214" dur="1.8s" fill="freeze"/>
+  </rect>
+  <text x="417" y="225" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#a855f7" opacity="0.65">◆  +750 XP  ◆</text>
+
+  <!-- ═══════════════ CARD 3 — INDIGO ═══════════════ -->
+
+  <rect x="568" y="8" width="258" height="244" rx="12" fill="none" stroke="#6366f1" stroke-width="6" opacity="0.08">
+    <animate attributeName="opacity" values="0.04;0.14;0.04" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="574" y="14" width="246" height="232" rx="10" fill="#0f1219" stroke="#6366f1" stroke-width="1.2">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="574" y="14" width="246" height="3" rx="1.5" fill="#6366f1">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="574" y="14" width="14" height="2" fill="#6366f1" opacity="0.9"/>
+  <rect x="574" y="14" width="2" height="14" fill="#6366f1" opacity="0.9"/>
+  <rect x="808" y="14" width="12" height="2" fill="#6366f1" opacity="0.9"/>
+  <rect x="818" y="14" width="2" height="14" fill="#6366f1" opacity="0.9"/>
+  <rect x="574" y="242" width="14" height="2" fill="#6366f1" opacity="0.9"/>
+  <rect x="574" y="232" width="2" height="12" fill="#6366f1" opacity="0.9"/>
+  <rect x="808" y="242" width="12" height="2" fill="#6366f1" opacity="0.9"/>
+  <rect x="818" y="232" width="2" height="12" fill="#6366f1" opacity="0.9"/>
+
+  <text x="697" y="40" text-anchor="middle" font-family="'Courier New',monospace" font-size="7.5" fill="#6366f1" letter-spacing="2.5" opacity="0.85">ACHIEVEMENT UNLOCKED</text>
+  <line x1="590" y1="48" x2="804" y2="48" stroke="#6366f1" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="697" y="110" text-anchor="middle" font-size="46">⚡</text>
+
+  <rect x="653" y="122" width="88" height="19" rx="4" fill="#6366f1" opacity="0.12"/>
+  <rect x="653" y="122" width="88" height="19" rx="4" fill="none" stroke="#6366f1" stroke-width="0.7" opacity="0.6"/>
+  <text x="697" y="135.5" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#6366f1" font-weight="bold" letter-spacing="2.5">WINNER</text>
+
+  <text x="697" y="160" text-anchor="middle" font-family="'Courier New',monospace" font-size="9.5" fill="#ffffff" opacity="0.92">WordPress</text>
+  <text x="697" y="175" text-anchor="middle" font-family="'Courier New',monospace" font-size="9.5" fill="#ffffff" opacity="0.92">Creathon</text>
+
+  <rect x="590" y="200" width="214" height="5" rx="2.5" fill="#ffffff" opacity="0.07"/>
+  <rect x="590" y="200" width="214" height="5" rx="2.5" fill="#6366f1" opacity="0.75">
+    <animate attributeName="width" values="0;214;214" dur="2.1s" fill="freeze"/>
+  </rect>
+  <text x="697" y="225" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#6366f1" opacity="0.65">◆  +600 XP  ◆</text>
+
+</svg>

@@ -15,15 +15,9 @@
 ## ✦ Achievements
 
 <div align="center">
-<br>
 
-[![](https://img.shields.io/badge/🏆%20%20WINNER-%20AI%20Hackathon%20for%20Women%20%26%20Girls-ff6b9d?style=for-the-badge&labelColor=0D1117&color=ff6b9d)](https://github.com/MariamManjo)
+![achievements](achievements.svg)
 
-[![](https://img.shields.io/badge/🚀%20%20WINNER-%20UG%20Startup%20Factory%20Pre--Acceleration-a855f7?style=for-the-badge&labelColor=0D1117&color=a855f7)](https://github.com/MariamManjo)
-
-[![](https://img.shields.io/badge/⚡%20%20WINNER-%20WordPress%20Creathon-6366f1?style=for-the-badge&labelColor=0D1117&color=6366f1)](https://github.com/MariamManjo)
-
-<br>
 </div>
 
 ---
